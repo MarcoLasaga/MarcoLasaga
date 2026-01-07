@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Welcome to my GitHub!
+------
 
-<!--
-**MarcoLasaga/MarcoLasaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👤 Who am I?
+------
+Hi! I’m Marco, a developer who enjoys learning and building things.
 
-Here are some ideas to get you started:
+### 💼 What am I currently working on?
+------
+Anything from learning new technologies to creating and improving websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What tools do I use?
+------
+I work with HTML, CSS, and JavaScript, and I also have experience using PERN and MERN tech stacks. Knowledgable with languages like C, C++, C#, Java, Ruby, etc!
+
+### 📫 How to reach me
+------
+You can reach me through my LinkedIn profile provided on my GitHub.
