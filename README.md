@@ -1,5 +1,4 @@
 ## 👋 Welcome to my GitHub!
-------
 
 ### 👤 Who am I?
 ------
